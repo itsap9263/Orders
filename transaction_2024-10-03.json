@@ -32,14 +32,14 @@
 "city": "Sample City",
 "state": "CA",
 "zip": "90001",
-"country": "US"
+"country": "IN"
 },
 "billingAddress": {
 "addr1": "123 Main Street",
 "city": "Sample City",
 "state": "CA",
 "zip": "90001",
-"country": "US"
+"country": "IN"
 },
 "terms": {
 "type": "terms",
